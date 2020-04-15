@@ -5,3 +5,6 @@ Game Team Test
 Maks
 Vira
 Vlad
+
+# Project name
+Some game
